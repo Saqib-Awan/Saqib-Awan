@@ -1,29 +1,18 @@
-<h1 align="center">Hi 👋, I'm Muhammad-Saqib</h1>
-<h3 align="center">A passionate Data Science and Machine Learning expert from Pakistan</h3>
+# 💫 About Me:
+🔭 I’m currently working on<br><br>End-to-end data science and machine learning projects, including predictive maintenance systems, computer vision models, and NLP pipelines, with a strong focus on real-world problem solving and model deployment.<br><br>👯 I’m looking to collaborate on<br><br>Data science and machine learning projects involving applied ML, deep learning, computer vision, NLP, analytics, or MLOps—especially projects with real datasets and practical impact.<br><br>🤝 I’m looking for help with<br><br>Improving model performance, production deployment strategies, scalable ML pipelines, and best practices in MLOps and cloud-based machine learning systems.<br><br>🌱 I’m currently learning<br><br>Advanced deep learning architectures, transformer-based NLP models, computer vision optimization, and end-to-end ML deployment using Docker and cloud platforms.<br><br>💬 Ask me about<br><br>Python, data analysis, machine learning, deep learning, predictive modeling, NLP, computer vision, and building ML projects from data preprocessing to deployment.<br><br>⚡ Fun fact<br><br>I enjoy turning complex datasets into simple, actionable insights and building AI models that actually work outside notebooks.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib-awan&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-awan" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saqibawan05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awansaqib342@gmail.com) 
 
-- 🌱 I’m currently learning **Pytorch, Opencv, Tensorflow Keras, Deep Learning**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saqib-Awan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Saqib-Awan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saqib-Awan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **Deep Learning Projects**
+---
+[![](https://visitcount.itsvg.in/api?id=Saqib-Awan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saqib-Awan](https://github.com/Saqib-Awan)
-
-- 📫 How to reach me **awansaqib342@gmail.com**
-
-- ⚡ Fun fact **I think I'm a fast learner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <!-- Add your language and tools icons here -->
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-awan&show_icons=true&locale=en&layout=compact&langs_count=6&hide=kotlin" alt="saqib-awan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-awan&show_icons=true&locale=en" alt="saqib-awan" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
